@@ -7,7 +7,7 @@ body {
     font-size: 12px;
     margin-top: 280px;
     text-align: center;
-    background-image: url(IMAGES/Fondo.jpg);
+    background-image: url(IMAGENES/Fondo.jpg);
     background-size: 1519px 3400px;
     background-repeat: no-repeat;
     margin: 0px;
@@ -433,7 +433,7 @@ a.Fbutton{
   width: 100px;
   height: 100px;
   background-size: 85px;
-  background-image: url("IMAGES/redesSociales/LOGO\ F\ 1.png");
+  background-image: url("IMAGENES/redesSociales/LOGO\ F\ 1.png");
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -442,14 +442,14 @@ a.Fbutton:hover{
   width: 100px;
   height: 100px;
   background-size: 55px;
-  background-image: url("IMAGES/1280px-Facebook_f_logo_(2019).svg.png");
+  background-image: url("IMAGENES/1280px-Facebook_f_logo_(2019).svg.png");
   background-position: center;
   background-repeat: no-repeat;
   transition: background-image 0.6s ease, color 0.5s ease;
 }
 
 a.Wbutton{
-  background-image: url("IMAGES/redesSociales/LOGO\ I\ 1.png");
+  background-image: url("IMAGENES/redesSociales/LOGO\ I\ 1.png");
   width: 100px;
   height: 100px;
   background-size: 110px;
@@ -457,7 +457,7 @@ a.Wbutton{
   background-repeat: no-repeat;
 }
 a.Wbutton:hover{
-  background-image: url("IMAGES/1b2ca367caa7eff8b45c09ec09b44c16-icono-de-instagram-logo-by-vexels.png");
+  background-image: url("IMAGENES/1b2ca367caa7eff8b45c09ec09b44c16-icono-de-instagram-logo-by-vexels.png");
   width: 100px;
   height: 100px;
   background-size: 65px;
